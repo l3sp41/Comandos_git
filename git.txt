@@ -22,4 +22,8 @@
 
  * Git rm
 
-	Elimina archivos de tu index y de tu directorio de ensayo para que no se rastreen. Ejemplo:
+	Elimina archivos de tu index y de tu directorio de ensayo para que no se rastreen
+
+ * Git commit 
+   
+    	Toma todos los cambios escritos en el index. 
