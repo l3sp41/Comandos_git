@@ -26,4 +26,8 @@
 
  * Git commit 
    
-    	Toma todos los cambios escritos en el index. 
+    	Toma todos los cambios escritos en el index.
+
+ * Git status
+
+	Te muestra el estado de los archivos en el index en comparación con los del directorio de trabajo.
