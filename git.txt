@@ -2,7 +2,7 @@
 **************            Git         ****************
 ******************************************************
 
- * git config:
+ * Git config:
 
 	git config --global user.name "Nombre de usuario"    % Nombre del Usuario del resositorio de git
 	git config --global user.email tucorreo@gmail.com    % Correo electronico del usuario
@@ -11,7 +11,15 @@
 	git config --global core.autocrlf input              % Es el valor que debe tener al trabjar en linux
  
  
- * git init:
+ * Git init:
 
  
    	Inicializa un repositorio git – crea el directorio .git inicial en un proyecto nuevo o existente.
+
+ * Git add
+
+	Añade cambios de archivos en tu directorio de ensayo a tu index.
+
+ * Git rm
+
+	Elimina archivos de tu index y de tu directorio de ensayo para que no se rastreen. Ejemplo:
