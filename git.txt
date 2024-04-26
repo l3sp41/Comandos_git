@@ -2,10 +2,16 @@
 **************            Git         ****************
 ******************************************************
 
-git config:
+ * git config:
 
 	git config --global user.name "Nombre de usuario"    % Nombre del Usuario del resositorio de git
 	git config --global user.email tucorreo@gmail.com    % Correo electronico del usuario
  	git config --global core.editor "code --wait"        % Editor de codigo por defecto 
 	git config --global init.defaultBranch main          % Nombre por defecto de la rama principal
 	git config --global core.autocrlf input              % Es el valor que debe tener al trabjar en linux
+ 
+ 
+ * git init:
+
+ 
+   	Inicializa un repositorio git – crea el directorio .git inicial en un proyecto nuevo o existente.
